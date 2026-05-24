@@ -1,7 +1,7 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
 
 ## AIM
-To develop an LSTM-based model for recognizing the named entities in the text.
+To develop an LSTM-based model for recognizing the named entities in the text
 
 ## Problem Statement and Dataset
 
