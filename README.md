@@ -28,7 +28,7 @@ STEP 3:
 Define dataset and DataLoader for batching.
 
 STEP 4:
-Build a bidirectional LSTM model for sequence tagging.
+Build a bidirectional LSTM model for sequence tagging
 
 STEP 5:
 Train the model over multiple epochs, tracking loss.
